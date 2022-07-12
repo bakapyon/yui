@@ -1,0 +1,22 @@
+2022/07/12-12:01:19.204 1fe Reusing MANIFEST /mnt/c/Users/Guilherme/Desktop/iris-main/lib/session/yui_Login_QR/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/12-12:01:19.237 1fe Recovering log #181
+2022/07/12-12:01:19.356 1fe Reusing old log /mnt/c/Users/Guilherme/Desktop/iris-main/lib/session/yui_Login_QR/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000181.log 
+2022/07/12-12:01:39.049 203 Level-0 table #191: started
+2022/07/12-12:01:39.620 203 Level-0 table #191: 1465242 bytes OK
+2022/07/12-12:01:39.642 203 Delete type=0 #181
+2022/07/12-12:01:45.114 201 Compacting 1@1 + 6@2 files
+2022/07/12-12:01:45.995 201 Generated table #192@1: 35452 keys, 2257078 bytes
+2022/07/12-12:01:46.501 201 Generated table #193@1: 22904 keys, 2197184 bytes
+2022/07/12-12:01:46.904 201 Generated table #194@1: 2610 keys, 2149193 bytes
+2022/07/12-12:01:47.696 201 Generated table #195@1: 24140 keys, 2234177 bytes
+2022/07/12-12:01:48.172 201 Generated table #196@1: 51400 keys, 2183803 bytes
+2022/07/12-12:01:48.604 201 Generated table #197@1: 102089 keys, 1927508 bytes
+2022/07/12-12:01:48.605 201 Compacted 1@1 + 6@2 files => 12948943 bytes
+2022/07/12-12:01:48.608 201 compacted to: files[ 0 0 6 0 0 0 0 ]
+2022/07/12-12:01:48.621 201 Delete type=2 #183
+2022/07/12-12:01:48.622 201 Delete type=2 #184
+2022/07/12-12:01:48.622 201 Delete type=2 #185
+2022/07/12-12:01:48.623 201 Delete type=2 #186
+2022/07/12-12:01:48.623 201 Delete type=2 #187
+2022/07/12-12:01:48.623 201 Delete type=2 #188
+2022/07/12-12:01:48.624 201 Delete type=2 #191

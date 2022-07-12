@@ -1,0 +1,4 @@
+2022/07/12-11:35:36.075 11b Reusing MANIFEST /mnt/c/Users/Guilherme/Desktop/iris-main/lib/session/yui_Login_QR/Default/Session Storage/MANIFEST-000001
+2022/07/12-11:35:36.126 11b Recovering log #3
+2022/07/12-11:35:36.128 11b (ignoring error) /mnt/c/Users/Guilherme/Desktop/iris-main/lib/session/yui_Login_QR/Default/Session Storage/000003.log: dropping 1512 bytes; Corruption: checksum mismatch
+2022/07/12-11:35:36.134 11b Reusing old log /mnt/c/Users/Guilherme/Desktop/iris-main/lib/session/yui_Login_QR/Default/Session Storage/000003.log 

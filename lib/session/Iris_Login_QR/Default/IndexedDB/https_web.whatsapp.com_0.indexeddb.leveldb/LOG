@@ -1,0 +1,163 @@
+2022/07/01-14:32:27.939 7cb1 Creating DB /mnt/c/Users/Guilherme/Desktop/yui-main/lib/session/yui_Login_QR/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/07/01-14:32:27.960 7cb1 Reusing MANIFEST /mnt/c/Users/Guilherme/Desktop/yui-main/lib/session/yui_Login_QR/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/01-14:32:28.200 7cc4 Level-0 table #5: started
+2022/07/01-14:32:28.215 7cc4 Level-0 table #5: 5996 bytes OK
+2022/07/01-14:32:28.237 7cc4 Delete type=0 #3
+2022/07/01-14:32:28.240 7cc4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/07/01-14:33:02.910 7cc2 Level-0 table #7: started
+2022/07/01-14:33:03.884 7cc2 Level-0 table #7: 1205146 bytes OK
+2022/07/01-14:33:03.902 7cc2 Delete type=0 #4
+2022/07/01-14:33:39.965 7cc4 Level-0 table #9: started
+2022/07/01-14:33:40.273 7cc4 Level-0 table #9: 1161948 bytes OK
+2022/07/01-14:33:40.289 7cc4 Delete type=0 #6
+2022/07/01-14:33:40.328 7cc4 Compacting 1@0 + 1@1 files
+2022/07/01-14:33:41.030 7cc4 Generated table #10@0: 50598 keys, 1456842 bytes
+2022/07/01-14:33:41.031 7cc4 Compacted 1@0 + 1@1 files => 1456842 bytes
+2022/07/01-14:33:41.034 7cc4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/01-14:33:44.633 7cbf Level-0 table #12: started
+2022/07/01-14:33:45.042 7cbf Level-0 table #12: 1228735 bytes OK
+2022/07/01-14:33:45.056 7cbf Delete type=2 #7
+2022/07/01-14:33:45.057 7cbf Delete type=0 #8
+2022/07/01-14:33:45.057 7cbf Delete type=2 #9
+2022/07/01-14:33:45.073 7cbf Compacting 1@0 + 1@1 files
+2022/07/01-14:33:46.104 7cbf Generated table #13@0: 52842 keys, 2245827 bytes
+2022/07/01-14:33:46.178 7cbf Level-0 table #16: started
+2022/07/01-14:33:46.649 7cbf Level-0 table #16: 1352707 bytes OK
+2022/07/01-14:33:46.665 7cbf Delete type=0 #11
+2022/07/01-14:33:46.715 7cbf Generated table #14@0: 8939 keys, 336761 bytes
+2022/07/01-14:33:46.715 7cbf Compacted 1@0 + 1@1 files => 2582588 bytes
+2022/07/01-14:33:46.718 7cbf compacted to: files[ 1 2 1 0 0 0 0 ]
+2022/07/01-14:33:46.727 7cbf Delete type=2 #10
+2022/07/01-14:33:46.727 7cbf Delete type=2 #12
+2022/07/01-14:33:46.733 7cbf Compacting 1@0 + 1@1 files
+2022/07/01-14:33:47.545 7cbf Level-0 table #19: started
+2022/07/01-14:33:47.944 7cbf Level-0 table #19: 1310482 bytes OK
+2022/07/01-14:33:47.965 7cbf Delete type=0 #15
+2022/07/01-14:33:48.259 7cbf Generated table #17@0: 55829 keys, 2235944 bytes
+2022/07/01-14:33:48.871 7cbf Generated table #20@0: 9166 keys, 1364892 bytes
+2022/07/01-14:33:48.871 7cbf Compacted 1@0 + 1@1 files => 3600836 bytes
+2022/07/01-14:33:48.874 7cbf compacted to: files[ 1 3 1 0 0 0 0 ]
+2022/07/01-14:33:48.883 7cbf Delete type=2 #13
+2022/07/01-14:33:48.884 7cbf Delete type=2 #16
+2022/07/01-14:33:48.890 7cbf Compacting 1@0 + 2@1 files
+2022/07/01-14:33:49.161 7cbf Level-0 table #23: started
+2022/07/01-14:33:49.606 7cbf Level-0 table #23: 1335320 bytes OK
+2022/07/01-14:33:49.619 7cbf Delete type=0 #18
+2022/07/01-14:33:50.621 7cbf Generated table #21@0: 61269 keys, 2240769 bytes
+2022/07/01-14:33:51.463 7cbf Generated table #24@0: 8676 keys, 2174010 bytes
+2022/07/01-14:33:51.788 7cbf Generated table #25@0: 5823 keys, 489349 bytes
+2022/07/01-14:33:51.788 7cbf Compacted 1@0 + 2@1 files => 4904128 bytes
+2022/07/01-14:33:51.791 7cbf compacted to: files[ 1 4 1 0 0 0 0 ]
+2022/07/01-14:33:53.841 7cbf Level-0 table #27: started
+2022/07/01-14:33:54.123 7cbf Level-0 table #27: 946113 bytes OK
+2022/07/01-14:33:54.138 7cbf Delete type=0 #22
+2022/07/01-14:33:54.178 7cbf Compacting 2@0 + 4@1 files
+2022/07/01-14:33:55.501 7cbf Generated table #28@0: 85657 keys, 2269078 bytes
+2022/07/01-14:33:56.531 7cbf Generated table #29@0: 3031 keys, 2154674 bytes
+2022/07/01-14:33:58.212 7cbf Generated table #30@0: 35276 keys, 2014982 bytes
+2022/07/01-14:33:58.213 7cbf Compacted 2@0 + 4@1 files => 6438734 bytes
+2022/07/01-14:33:58.216 7cbf compacted to: files[ 0 3 1 0 0 0 0 ]
+2022/07/01-14:33:58.235 7cbf Delete type=2 #17
+2022/07/01-14:33:58.236 7cbf Delete type=2 #19
+2022/07/01-14:33:58.237 7cbf Delete type=2 #20
+2022/07/01-14:34:31.147 7cc2 Compacting 1@1 + 1@2 files
+2022/07/01-14:34:31.928 7cc2 Generated table #31@1: 25350 keys, 1772129 bytes
+2022/07/01-14:34:31.928 7cc2 Compacted 1@1 + 1@2 files => 1772129 bytes
+2022/07/01-14:34:31.931 7cc2 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/07/01-14:34:31.946 7cc2 Delete type=2 #5
+2022/07/01-14:34:31.946 7cc2 Delete type=2 #14
+2022/07/01-14:34:31.947 7cc2 Delete type=2 #21
+2022/07/01-14:34:31.948 7cc2 Delete type=2 #23
+2022/07/01-14:34:31.949 7cc2 Delete type=2 #24
+2022/07/01-14:34:31.949 7cc2 Delete type=2 #25
+2022/07/01-14:34:31.950 7cc2 Delete type=2 #27
+2022/07/01-14:34:31.950 7cc2 Delete type=2 #28
+2022/07/01-14:34:36.663 7cbf Level-0 table #33: started
+2022/07/01-14:34:37.034 7cbf Level-0 table #33: 1071693 bytes OK
+2022/07/01-14:34:37.056 7cbf Delete type=0 #26
+2022/07/01-14:34:37.886 7cbf Compacting 1@0 + 2@1 files
+2022/07/01-14:34:39.385 7cbf Generated table #34@0: 31311 keys, 2193012 bytes
+2022/07/01-14:34:40.656 7cbf Generated table #35@0: 30257 keys, 2228246 bytes
+2022/07/01-14:34:40.806 7cbf Generated table #36@0: 17349 keys, 404277 bytes
+2022/07/01-14:34:40.807 7cbf Compacted 1@0 + 2@1 files => 4825535 bytes
+2022/07/01-14:34:40.810 7cbf compacted to: files[ 0 3 1 0 0 0 0 ]
+2022/07/01-14:34:40.826 7cbf Delete type=2 #29
+2022/07/01-14:34:40.827 7cbf Delete type=2 #30
+2022/07/01-14:34:40.828 7cbf Delete type=2 #33
+2022/07/01-14:34:53.480 7cbf Compacting 1@1 + 1@2 files
+2022/07/01-14:34:54.305 7cbf Generated table #37@1: 14835 keys, 2189656 bytes
+2022/07/01-14:34:54.674 7cbf Generated table #38@1: 1907 keys, 1344269 bytes
+2022/07/01-14:34:54.674 7cbf Compacted 1@1 + 1@2 files => 3533925 bytes
+2022/07/01-14:34:54.677 7cbf compacted to: files[ 0 2 2 0 0 0 0 ]
+2022/07/01-14:34:54.708 7cbf Delete type=2 #31
+2022/07/01-14:34:54.709 7cbf Delete type=2 #34
+2022/07/01-14:35:42.488 7cb7 Level-0 table #40: started
+2022/07/01-14:35:42.865 7cb7 Level-0 table #40: 1030016 bytes OK
+2022/07/01-14:35:42.882 7cb7 Delete type=0 #32
+2022/07/01-14:35:43.864 7cb7 Compacting 1@0 + 2@1 files
+2022/07/01-14:35:45.072 7cb7 Generated table #41@0: 45115 keys, 2252306 bytes
+2022/07/01-14:35:45.462 7cb7 Generated table #42@0: 31050 keys, 870669 bytes
+2022/07/01-14:35:45.462 7cb7 Compacted 1@0 + 2@1 files => 3122975 bytes
+2022/07/01-14:35:45.466 7cb7 compacted to: files[ 0 2 2 0 0 0 0 ]
+2022/07/01-14:35:59.795 7cc2 Compacting 1@1 + 2@2 files
+2022/07/01-14:36:00.462 7cc2 Generated table #43@1: 15005 keys, 2190134 bytes
+2022/07/01-14:36:01.145 7cc2 Generated table #44@1: 8573 keys, 2168339 bytes
+2022/07/01-14:36:01.673 7cc2 Generated table #45@1: 18357 keys, 1254621 bytes
+2022/07/01-14:36:01.673 7cc2 Compacted 1@1 + 2@2 files => 5613094 bytes
+2022/07/01-14:36:01.676 7cc2 compacted to: files[ 0 1 3 0 0 0 0 ]
+2022/07/01-14:36:01.686 7cc2 Delete type=2 #35
+2022/07/01-14:36:01.687 7cc2 Delete type=2 #36
+2022/07/01-14:36:01.687 7cc2 Delete type=2 #37
+2022/07/01-14:36:01.688 7cc2 Delete type=2 #38
+2022/07/01-14:36:01.688 7cc2 Delete type=2 #40
+2022/07/01-14:36:01.689 7cc2 Delete type=2 #41
+2022/07/01-14:36:39.666 7cc2 Level-0 table #47: started
+2022/07/01-14:36:39.971 7cc2 Level-0 table #47: 1210104 bytes OK
+2022/07/01-14:36:39.990 7cc2 Delete type=0 #39
+2022/07/01-14:36:40.945 7cc4 Compacting 1@0 + 1@1 files
+2022/07/01-14:36:41.470 7cc4 Generated table #48@0: 66229 keys, 1491034 bytes
+2022/07/01-14:36:41.470 7cc4 Compacted 1@0 + 1@1 files => 1491034 bytes
+2022/07/01-14:36:41.472 7cc4 compacted to: files[ 0 1 3 0 0 0 0 ]
+2022/07/01-14:36:41.481 7cc4 Delete type=2 #42
+2022/07/01-14:36:41.482 7cc4 Delete type=2 #47
+2022/07/01-14:37:07.173 7cbf Compacting 1@1 + 3@2 files
+2022/07/01-14:37:07.974 7cbf Generated table #49@1: 15093 keys, 2192159 bytes
+2022/07/01-14:37:08.503 7cbf Generated table #50@1: 8261 keys, 2165955 bytes
+2022/07/01-14:37:09.386 7cbf Generated table #51@1: 48805 keys, 2238233 bytes
+2022/07/01-14:37:09.455 7cbf Generated table #52@1: 12859 keys, 295140 bytes
+2022/07/01-14:37:09.455 7cbf Compacted 1@1 + 3@2 files => 6891487 bytes
+2022/07/01-14:37:09.458 7cbf compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/07/01-14:37:09.470 7cbf Delete type=2 #43
+2022/07/01-14:37:09.470 7cbf Delete type=2 #44
+2022/07/01-14:37:09.471 7cbf Delete type=2 #45
+2022/07/01-14:37:09.472 7cbf Delete type=2 #48
+2022/07/01-14:38:27.855 7cb7 Level-0 table #54: started
+2022/07/01-14:38:28.146 7cb7 Level-0 table #54: 1153604 bytes OK
+2022/07/01-14:38:28.161 7cb7 Delete type=0 #46
+2022/07/01-14:38:28.381 7cbf Compacting 1@1 + 4@2 files
+2022/07/01-14:38:29.051 7cbf Generated table #55@1: 17262 keys, 2192255 bytes
+2022/07/01-14:38:29.518 7cbf Generated table #56@1: 7515 keys, 2161591 bytes
+2022/07/01-14:38:30.363 7cbf Generated table #57@1: 40291 keys, 2231823 bytes
+2022/07/01-14:38:30.580 7cbf Generated table #58@1: 36482 keys, 786144 bytes
+2022/07/01-14:38:30.580 7cbf Compacted 1@1 + 4@2 files => 7371813 bytes
+2022/07/01-14:38:30.582 7cbf compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/07/01-14:38:30.593 7cbf Delete type=2 #49
+2022/07/01-14:38:30.593 7cbf Delete type=2 #50
+2022/07/01-14:38:30.594 7cbf Delete type=2 #51
+2022/07/01-14:38:30.594 7cbf Delete type=2 #52
+2022/07/01-14:38:30.594 7cbf Delete type=2 #54
+2022/07/01-15:40:16.668 7d8d Level-0 table #60: started
+2022/07/01-15:40:16.961 7d8d Level-0 table #60: 1329782 bytes OK
+2022/07/01-15:40:16.975 7d8d Delete type=0 #53
+2022/07/01-15:40:17.541 7d90 Compacting 1@1 + 4@2 files
+2022/07/01-15:40:18.631 7d90 Generated table #61@1: 18048 keys, 2195007 bytes
+2022/07/01-15:40:19.485 7d90 Generated table #62@1: 5610 keys, 2157455 bytes
+2022/07/01-15:40:20.446 7d90 Generated table #63@1: 31025 keys, 2220326 bytes
+2022/07/01-15:40:20.759 7d90 Generated table #64@1: 59073 keys, 1191102 bytes
+2022/07/01-15:40:20.760 7d90 Compacted 1@1 + 4@2 files => 7763890 bytes
+2022/07/01-15:40:20.763 7d90 compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/07/01-15:40:20.777 7d90 Delete type=2 #55
+2022/07/01-15:40:20.778 7d90 Delete type=2 #56
+2022/07/01-15:40:20.779 7d90 Delete type=2 #57
+2022/07/01-15:40:20.782 7d90 Delete type=2 #58
+2022/07/01-15:40:20.783 7d90 Delete type=2 #60
