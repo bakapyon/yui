@@ -50,22 +50,7 @@
 	"Hide_Owner_Number": false,
 	"Popup": false,
 	"Prefix": [
-		"/",
-		"$",
-		"#",
-		".",
-		"\\",
-		"@",
-		"=",
-		"?",
-		"+",
-		"!",
-		"&",
-		":",
-		";",
-		"^",
-		">",
-		"<"
+		"!"
 	],
 	"Max_Divider_Win": "3",
 	"Prize_Value_Max": "200",
