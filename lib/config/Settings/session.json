@@ -17,7 +17,7 @@
 	"Discord_ID": "Opcional",
 	"Ensure_Headful_Integrity": "Opcional | True | False",
 	"Event_Mode": "Opcional | True | False",
-	"Executable_Path": "/usr/bin/google-chrome-stable",
+	"Executable_Path": "user/bin/chromium-browser",
 	"EZQR": true,
 	"GH_Patch": "Opcional | True | False",
 	"Headless": "Opcional | True | False",
