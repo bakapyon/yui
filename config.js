@@ -440,7 +440,7 @@ module.exports = kconfig = async (kill, message) => {
 				
 			// LEMBRE-SE, REMOVER CRÈDITO È CRIME E PROIBIDO
 			case 'about':
-				await kill.sendFileFromUrl(from, 'https://i.ibb.co/cC5SPKZ/yui.png', 'yui.png', mess.about(), id);await kill.reply(from, mess.everhost(), id)
+				await kill.sendFileFromUrl(from, 'https://s6.gifyu.com/images/img-yui.jpg', 'yui.jpg', mess.about(), id)
 				break
 				
 			case 'nobg':
